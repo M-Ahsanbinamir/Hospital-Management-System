@@ -1,0 +1,33 @@
+**** PATIENT FINAL REPORT ****
+
+**** Patient Information ****
+
+>> ID: Pat-001
+>> Name: Mr. Ali
+>> Pathologies: Malaria
+>> Address: A-1234, Kings Colony
+>> Age: 123
+>> Contact: 12334566654
+>> Blood Group: A+
+>> Gender: Male
+
+******  Doctor's Information  *****
+
+>> ID: Doc-001
+>> Name: Mr. Khan
+>> Qualification: MBBS
+>> Experience: 10 Years
+> Disease Daignosed: Malaria  >Medicine Provided: Paandol
+>> BILL ID A1 <<
+>> No. of Days Admit (Patient): 3
+>> Admit Room Type: Deluxe
+>> Patient Type: Non-DSU
+
+Base Charges for Daignosis & Medicine = Rs. 10000
+Room Charges * Number of Stay Days = Rs. 300000
+Doctor Fees = Rs. 20000
+
+--------------------  Total Bill =  Rs. 330000  --------------------
+
+** 10% Discount already calculated if DSU **
+-----------------  END  -----------------

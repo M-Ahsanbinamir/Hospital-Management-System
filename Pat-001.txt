@@ -1,0 +1,10 @@
+**** Patient Information ****
+
+>> ID: Pat-001
+>> Name: Mr. Ali
+>> Pathologies: Malaria
+>> Address: A-1234, Kings Colony
+>> Age: 123
+>> Contact: 12334566654
+>> Blood Group: A+
+>> Gender: Male

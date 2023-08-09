@@ -1,0 +1,6 @@
+******  Doctor's Information  *****
+
+>> ID: Doc-001
+>> Name: Mr. Khan
+>> Qualification: MBBS
+>> Experience: 10 Years
